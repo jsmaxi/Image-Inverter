@@ -1,2 +1,2 @@
-# Image-Inverter
+# Image Inverter
 Simple image color inverter
